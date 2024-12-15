@@ -9,6 +9,7 @@ Before running the project, ensure you have the following installed:
 - **JDK 23**: Download from the official [JDK 23 website](https://jdk.java.net/23/).
 - **SoapUI**: You can download the latest version of SoapUI from [here](https://www.soapui.org/downloads/soapui/).
 - **JetBrains IntelliJ IDEA Ultimate 2024.3**: Download from [JetBrains official website](https://www.jetbrains.com/idea/download/).
+- **JetBrains IntelliJ IDEA Ultimate 2024.3**: Install Plugin Jakarta EE : Web Services (JAX-WS).
   
 Additionally, you will need the **Maven** build tool to manage dependencies.
 
