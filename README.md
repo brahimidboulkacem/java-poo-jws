@@ -20,7 +20,6 @@ Make sure to add the following dependency to your `pom.xml` file for JAX-WS RI s
 In your `pom.xml`, add the following dependency to include `jaxws-ri`:
 
 <dependencies>
-        <!-- https://mvnrepository.com/artifact/com.sun.xml.ws/jaxws-ri -->
         <dependency>
             <groupId>com.sun.xml.ws</groupId>
             <artifactId>jaxws-ri</artifactId>
