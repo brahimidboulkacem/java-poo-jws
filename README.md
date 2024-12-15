@@ -57,3 +57,14 @@ This project contains various tests and phases. Below are some visual representa
 <img src="Pictures/4-01-phase-jws-test.PNG" alt="4-01 Phase JWS Test" width="500" />
 
 <img src="Pictures/4-phase-jws-test.PNG" alt="4 Phase JWS Test" width="500" />
+# Project Title: Java POO JWS
+
+This is a project demonstrating Java POO with JWS (Java Web Services). Below you will find information on the project setup, requirements, configuration steps, and how to clone the repository.
+
+## Clone the Project
+
+To get started, you can clone this repository to your local machine using the following command:
+
+```bash
+git clone https://github.com/brahimidboulkacem/java-poo-jws.git
+cd java-poo-jws
