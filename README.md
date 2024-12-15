@@ -1,4 +1,4 @@
-# Project Title: Java POO JWS
+# Project Title: Activité Pratique N° 2- Web Service SOAP WSDL
 
 This is a project demonstrating Java POO with JWS (Java Web Services). Below you will find information on the project setup, requirements, and configuration steps.
 
