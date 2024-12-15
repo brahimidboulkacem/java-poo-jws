@@ -3,16 +3,15 @@
 Below are some screenshots showing different phases and tests.
 
 ### 01. Phase 1
-![01.PNG](Pictures/01.PNG)
-
+<img src="Pictures/01.PNG"/>
 ### 02. Phase 2
-![02.PNG](Pictures/02.PNG)
+<img src="Pictures/02.PNG"/>
 
 ### 03. Phase 3
 
 #### 03-01: Phase Test
-![03-01-phase-test.PNG](Pictures/03-01-phase-test.PNG)
 
+<img src="Pictures/03-01-phase-test.PNG"/>
 #### 03-02: Phase Test Convert
 ![03-02-phase-test-convert.PNG](Pictures/03-02-phase-test-convert.PNG)
 
