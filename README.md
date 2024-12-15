@@ -1,4 +1,31 @@
-# Project Title
+# Project Title: Java POO JWS
+
+This is a project demonstrating Java POO with JWS (Java Web Services). Below you will find information on the project setup, requirements, and configuration steps.
+
+## Requirements
+
+Before running the project, ensure you have the following installed:
+
+- **JDK 23**: Download from the official [JDK 23 website](https://jdk.java.net/23/).
+- **SoapUI**: You can download the latest version of SoapUI from [here](https://www.soapui.org/downloads/soapui/).
+- **JetBrains IntelliJ IDEA Ultimate 2024.3**: Download from [JetBrains official website](https://www.jetbrains.com/idea/download/).
+  
+Additionally, you will need the **Maven** build tool to manage dependencies.
+
+## Adding Dependencies
+
+Make sure to add the following dependency to your `pom.xml` file for JAX-WS RI support.
+
+### Add the Dependency to `pom.xml`
+
+In your `pom.xml`, add the following dependency to include `jaxws-ri`:
+
+```xml
+<dependency>
+    <groupId>com.sun.xml.ws</groupId>
+    <artifactId>jaxws-ri</artifactId>
+    <version>2.3.0</version>
+</dependency>
 
 ## Description
 
