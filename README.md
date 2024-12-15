@@ -16,16 +16,7 @@ Additionally, you will need the **Maven** build tool to manage dependencies.
 
 Make sure to add the following dependency to your `pom.xml` file for JAX-WS RI support.
 
-### Add the Dependency to `pom.xml`
 
-In your `pom.xml`, add the following dependency to include `jaxws-ri`:
-
-```xml
-<dependency>
-    <groupId>com.sun.xml.ws</groupId>
-    <artifactId>jaxws-ri</artifactId>
-    <version>2.3.0</version>
-</dependency>
 
 ## Description
 
