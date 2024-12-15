@@ -22,9 +22,8 @@ Make sure to add the following dependency to your `pom.xml` file for JAX-WS RI s
 - The `pom.xml` dependency now uses version `4.0.3` as requested.
 
 This should provide clear instructions for users on how to set up and run the project, along with the necessary Maven dependencies and images.
+
 <img src="Pictures/mvn-dependency.PNG" alt="01 Phase Test" width="500" />
-
-
 ## Description
 
 This project contains various tests and phases. Below are some visual representations of the test phases:
