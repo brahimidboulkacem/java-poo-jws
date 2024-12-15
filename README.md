@@ -1,41 +1,27 @@
-## Images
+# Project Title
 
-Below are some screenshots showing different phases and tests.
+## Description
 
-### 01. Phase 1
-<img src="Pictures/01.PNG"/>
-### 02. Phase 2
-<img src="Pictures/02.PNG"/>
+This project contains various tests and phases. Below are some visual representations of the test phases:
 
-### 03. Phase 3
+### Phase 1 - Test Screenshots
 
-#### 03-01: Phase Test
+<img src="Pictures/01.PNG" alt="01 Phase Test" width="500" />
 
-<img src="Pictures/03-01-phase-test.PNG"/>
-#### 03-02: Phase Test Convert
-![03-02-phase-test-convert.PNG](Pictures/03-02-phase-test-convert.PNG)
+<img src="Pictures/02.PNG" alt="02 Phase Test" width="500" />
 
-#### 03-03: Phase Test Get Compte
-![03-03-phase-test-Get-Compte.PNG](Pictures/03-03-phase-test-Get-Compte.PNG)
+<img src="Pictures/03-01-phase-test.PNG" alt="03-01 Phase Test" width="500" />
 
-#### 03-04: Phase Test List Compte
-![03-03-phase-test-ListCompte.PNG](Pictures/03-03-phase-test-ListCompte.PNG)
+<img src="Pictures/03-02-phase-test-convert.PNG" alt="03-02 Phase Test Convert" width="500" />
 
-### 04. Phase 4
+<img src="Pictures/03-03-phase-test-Get-Compte.PNG" alt="03-03 Phase Test Get Compte" width="500" />
 
-#### 04-01: JWS Test
-![4-01-phase-jws-test.PNG](Pictures/4-01-phase-jws-test.PNG)
+<img src="Pictures/03-03-phase-test-ListCompte.PNG" alt="03-03 Phase Test List Compte" width="500" />
 
-#### 04: JWS Test
-![4-phase-jws-test.PNG](Pictures/4-phase-jws-test.PNG)
+<img src="Pictures/03-phase-test.PNG" alt="03 Phase Test" width="500" />
 
----
+### Phase 2 - JWS Test Screenshots
 
-## Usage
+<img src="Pictures/4-01-phase-jws-test.PNG" alt="4-01 Phase JWS Test" width="500" />
 
-To use the project, follow the instructions below.
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/java-poo-jws.git
+<img src="Pictures/4-phase-jws-test.PNG" alt="4 Phase JWS Test" width="500" />
