@@ -1,6 +1,6 @@
 # Project Title: Activité Pratique N° 2- Web Service SOAP WSDL
 
-This is a project demonstrating Java POO with JWS (Java Web Services). Below you will find information on the project setup, requirements, and configuration steps.
+This is a project demonstrating Java POO with SOAP (Java Web Services). Below you will find information on the project setup, requirements, and configuration steps.
 
 ## Requirements
 
@@ -44,19 +44,19 @@ This project contains various tests and phases. Below are some visual representa
 
 <img src="Pictures/03-phase-test.PNG" alt="03 Phase Test" width="500" />
 
-### Phase 2 - JWS Test Screenshots
+### Phase 2 - SOAP Test Screenshots
 
-<img src="Pictures/4-01-phase-jws-test.PNG" alt="4-01 Phase JWS Test" width="500" />
+<img src="Pictures/4-01-phase-jws-test.PNG" alt="4-01 Phase SOAP Test" width="500" />
 
-<img src="Pictures/4-phase-jws-test.PNG" alt="4 Phase JWS Test" width="500" />
-# Project Title: Java POO JWS
+<img src="Pictures/4-phase-jws-test.PNG" alt="4 Phase SOAP Test" width="500" />
+# Project Title: Java POO SOAP
 
-This is a project demonstrating Java POO with JWS (Java Web Services). Below you will find information on the project setup, requirements, configuration steps, and how to clone the repository.
+This is a project demonstrating Java POO with SOAP (Java Web Services). Below you will find information on the project setup, requirements, configuration steps, and how to clone the repository.
 
 ## Clone the Project
 
 To get started, you can clone this repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/brahimidboulkacem/java-poo-jws.git
-cd java-poo-jws
+git clone https://github.com/brahimidboulkacem/java-poo-soap.git
+cd java-poo-soap
